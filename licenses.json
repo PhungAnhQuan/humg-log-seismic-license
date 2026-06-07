@@ -6,10 +6,24 @@
     "allow_app": true,
     "allow_petrel_export": true,
     "allowed_machines": [
-      "*"
+      "3c19522a4e5db6d7686fbf9468786e831a8f9e007485edd501f2356537c0a0ca"
     ],
     "blocked_machines": [],
     "license_type": "Admin-license-final",
     "created_at": "2026-06-07"
+  },
+  "e275d8bbe9df87ca0514ece29a108d14b21631aa64c16f46d3ef515ffdfe1208": {
+    "owner": "User1",
+    "status": "active",
+    "expires_at": "2026-06-31",
+    "allow_app": true,
+    "allow_petrel_export": true,
+    "allowed_machines": [
+      "*"
+    ],
+    "blocked_machines": [],
+    "license_type": "User-license",
+    "created_at": "2026-06-07"
   }
 }
+
