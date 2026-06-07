@@ -17,7 +17,7 @@
     "status": "active",
     "expires_at": "2026-06-31",
     "allow_app": true,
-    "allow_petrel_export": true,
+    "allow_petrel_export": false,
     "allowed_machines": [
       "*"
     ],
