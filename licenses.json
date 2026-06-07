@@ -1,0 +1,14 @@
+{
+  "60bfdc4525abd872b20ac78e249a73d7a7c7d12b4f185215f8de3a5a083a3f9e": {
+    "owner": "Demo User",
+    "status": "active",
+    "expires_at": "2026-12-31",
+    "allow_app": true,
+    "allow_petrel_export": true,
+    "allowed_machines": [
+      "*"
+    ],
+    "blocked_machines": [],
+    "note": "Demo license key: HUMG-DEMO-2026-001"
+  }
+}
