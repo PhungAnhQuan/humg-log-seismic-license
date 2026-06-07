@@ -1,5 +1,5 @@
 {
-  "60bfdc4525abd872b20ac78e249a73d7a7c7d12b4f185215f8de3a5a083a3f9e": {
+  "a329d5e92ca4bfadf3284f9ee51ad6e50017ad39df0af803efd141ab65c96e90": {
     "owner": "Demo User",
     "status": "active",
     "expires_at": "2026-12-31",
@@ -9,6 +9,6 @@
       "*"
     ],
     "blocked_machines": [],
-    "note": "Demo license key: HUMG-DEMO-2026-001"
+    "note": "New license key: HUMG-AQUAN-CNS67-2026-001"
   }
 }
