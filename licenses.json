@@ -1,6 +1,6 @@
 {
   "a329d5e92ca4bfadf3284f9ee51ad6e50017ad39df0af803efd141ab65c96e90": {
-    "owner": "Demo User",
+    "owner": "Admin",
     "status": "active",
     "expires_at": "2026-12-31",
     "allow_app": true,
@@ -9,7 +9,7 @@
       "*"
     ],
     "blocked_machines": [],
-    "license_type": "demo",
+    "license_type": "Admin-license-final",
     "created_at": "2026-06-07"
   }
 }
