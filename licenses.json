@@ -6,7 +6,7 @@
     "allow_app": true,
     "allow_petrel_export": true,
     "allowed_machines": [
-      "b62b99e2f078a41136e07d9d65bcfcdef6df6e83f39cf8d4440e0ea1fd3e6a5d"
+      "958fa6a5624ab05ac000f01f6f29939d52cc0702ed81a9d396743c8bc6396ee7"
     ],
     "blocked_machines": [],
     "license_type": "Admin-license-final",
